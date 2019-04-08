@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.mg.gov.prodemge.prodigio</groupId>
+  <artifactId>minerium-web-zk</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.000-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190330212942</lastUpdated>
+  </versioning>
+</metadata>
