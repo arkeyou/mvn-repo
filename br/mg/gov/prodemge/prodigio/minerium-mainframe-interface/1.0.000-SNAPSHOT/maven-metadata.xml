@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.mg.gov.prodemge.prodigio</groupId>
+  <artifactId>minerium-mainframe-interface</artifactId>
+  <version>1.0.000-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190330.212624</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190330212624</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.000-20190330.212624-1</value>
+        <updated>20190330212624</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.000-20190330.212624-1</value>
+        <updated>20190330212624</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.0.000-20190330.212624-1</value>
+        <updated>20190330212624</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
